@@ -1,0 +1,9 @@
+.image-carrusel {
+    mask-image: linear-gradient(black 50%,
+            transparent);
+}
+
+.text-center {
+    text-align: center;
+}
+
